@@ -2,14 +2,20 @@
 #define int long long
 using namespace std;
 
+
+
 int32_t main(){
     int n , e ; cin >> n >> e;
     vector<int> g[n + 1];
+    vector<int>Tg [n+1];
 
     for(int i = 0 ; i  <  e ; i++){
         int a , b ; cin >> a >> b;
         g[a].push_back(b);
+        Tg[b].push_back(a);
     }
+
+
 
     
 
