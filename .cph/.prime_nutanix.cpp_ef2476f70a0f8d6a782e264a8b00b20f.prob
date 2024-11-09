@@ -1,0 +1,1 @@
+{"name":"Local: prime_nutanix","url":"/Users/amansingh/Desktop/practicw/prime_nutanix.cpp","tests":[{"id":1697217269220,"input":"1\n100000","output":"1\n2\n3\n4\n5\n20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/prime_nutanix.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: investigation","url":"/Users/amansingh/Desktop/practicw/cses_graph/investigation.cpp","tests":[{"id":1715003053489,"input":"4 5\n1 4 5\n1 2 4\n2 4 5\n1 3 2\n3 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_graph/investigation.cpp","group":"local","local":true}

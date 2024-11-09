@@ -1,0 +1,1 @@
+{"name":"Local: kmp_implementation","url":"/Users/amansingh/Desktop/practicw/string_algorithms/kmp_implementation.cpp","tests":[{"id":1714928717100,"input":"abababazyybababab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/string_algorithms/kmp_implementation.cpp","group":"local","local":true}

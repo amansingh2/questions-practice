@@ -1,0 +1,1 @@
+{"name":"Local: CSES_building_tea,","url":"/Users/amansingh/Desktop/practicw/CSES_building_tea,.cpp","tests":[{"id":1699217369076,"input":"5 3\n1 2\n1 3\n4 5","output":"1 2 2 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/CSES_building_tea,.cpp","group":"local","local":true}

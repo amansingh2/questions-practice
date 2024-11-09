@@ -1,0 +1,1 @@
+{"name":"Local: cses_shortest_route1","url":"/Users/amansingh/Desktop/practicw/cses_shortest_route1.cpp","tests":[{"id":1696263249654,"input":"3 4\n1 2 6\n1 3 2\n3 2 3\n1 3 4","output":"0 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_shortest_route1.cpp","group":"local","local":true}

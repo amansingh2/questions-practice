@@ -1,0 +1,1 @@
+{"name":"Local: solve","url":"/Users/amansingh/Desktop/practicw/solve.cpp","tests":[{"id":1695654037145,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/solve.cpp","group":"local","local":true}

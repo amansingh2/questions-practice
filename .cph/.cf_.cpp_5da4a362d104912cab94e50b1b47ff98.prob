@@ -1,0 +1,1 @@
+{"name":"Local: cf_","url":"/Users/amansingh/Desktop/practicw/cf_.cpp","tests":[{"id":1697035812703,"input":"4\n1 7\n3 512\n4 1044\n21 299792458196831048576","output":"8\n512\n1144\n299792458196831048576"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cf_.cpp","group":"local","local":true}

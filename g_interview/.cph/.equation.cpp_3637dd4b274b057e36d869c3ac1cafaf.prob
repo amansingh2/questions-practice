@@ -1,0 +1,1 @@
+{"name":"Local: equation","url":"/Users/amansingh/Desktop/practicw/g_interview/equation.cpp","tests":[{"id":1721765237112,"input":"(a+b-(c+a)+d-f)","output":""},{"id":1721765487872,"input":"a + a","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/g_interview/equation.cpp","group":"local","local":true}

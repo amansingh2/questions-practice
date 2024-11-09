@@ -1,0 +1,1 @@
+{"name":"Local: t2","url":"/Users/amansingh/Desktop/practicw/t2.cpp","tests":[{"id":1697708004723,"input":"2\n4\n1 2 2 3\n7\n1 1 1 1 2 2 3\n4\n1 2 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/t2.cpp","group":"local","local":true}
