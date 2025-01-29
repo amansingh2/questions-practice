@@ -1,0 +1,1 @@
+{"name":"Local: 8","url":"/Users/amansingh/Desktop/practicw/cses_searching_and_sorting/8.maximum_sub_array_sum_1.cpp","tests":[{"id":1738022885283,"input":"8\n-1 3 -2 5 3 -5 2 2","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_searching_and_sorting/8.maximum_sub_array_sum_1.cpp","group":"local","local":true}

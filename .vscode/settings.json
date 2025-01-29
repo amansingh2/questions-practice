@@ -1,7 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.exclude": {
-        "**/.bin": true
+        "**/*.bin": true,   // Hides all .bin files
+        "**/*.cph":true,    //
     },
     "files.associations": {
         "complex": "cpp",

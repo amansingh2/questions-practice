@@ -3,11 +3,7 @@
 using namespace std;
 
 
-int32_t main(){
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(0);
-
+void solve1(){
     int n , m ; cin >> n >> m;
 
     vector<vector<char> > mat(n , vector<char> (m));
@@ -133,8 +129,30 @@ int32_t main(){
     }else{
         cout<<"NO"<<endl;
     }
+}
+
+int32_t main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(0);
+    solve1();
+    // solve2();
+
+  
     
     return 0;
+}
+
+void solve2(){
+    int n , m ; cin >> n >> m ; // n -> rows , m -> columns!
+    vector<vector<char>>lab(m , vector<char>(m));
+
+    for(int i = 0  ; i < n ; i++){
+        for(int j = 0 ; j < m ; j++){
+            cin >> lab[i][j];
+        }
+    }
+
 }
 
 /*
@@ -142,13 +160,14 @@ int32_t main(){
 You and some monsters are in a labyrinth. When taking a step to some direction in the labyrinth, 
 each monster may simultaneously take one as well. Your goal is to reach one of the boundary squares 
 without ever sharing a square with a monster.
-
 Your task is to find out if your goal is possible, and if it is, print a path that you can follow. 
 Your plan has to work in any situation; even if the monsters know your path beforehand.
+
 Input
 The first input line has two integers n and m: the height and width of the map.
 After this there are n lines of m characters describing the map. Each character is . (floor), # (wall), 
 A (start), or M (monster). There is exactly one A in the input.
+
 Output
 First print "YES" if your goal is possible, and "NO" otherwise.
 If your goal is possible, also print an example of a valid path (the length of the path and 

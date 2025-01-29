@@ -82,8 +82,8 @@ Output
 Print m integers: the number of rounds after each swap.
 Constraints
 
-1 \le n, m \le 2 \cdot 10^5
-1 \le a,b \le n
+1 <= n, m <= 2 * 10^5
+1 <= a,b <= n
 
 Example
 Input:

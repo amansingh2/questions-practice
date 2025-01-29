@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"/Users/amansingh/Desktop/practicw/cses_graph/3.building_roads.cpp","tests":[{"id":1738092251547,"input":"4 2\n1 2\n3 4","output":"1\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_graph/3.building_roads.cpp","group":"local","local":true}

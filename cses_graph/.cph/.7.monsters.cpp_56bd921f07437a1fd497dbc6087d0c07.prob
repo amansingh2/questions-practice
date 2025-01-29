@@ -1,0 +1,1 @@
+{"name":"Local: 7","url":"/Users/amansingh/Desktop/practicw/cses_graph/7.monsters.cpp","tests":[{"id":1738095625157,"input":"5 8\n########\n#M..A..#\n#.#.M#.#\n#M#..#..\n#.######","output":"YES\n5\nRRDDR"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_graph/7.monsters.cpp","group":"local","local":true}

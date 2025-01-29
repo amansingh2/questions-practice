@@ -1,0 +1,1 @@
+{"name":"Local: apartments","url":"/Users/amansingh/Desktop/practicw/cses_searching_and_sorting/apartments.cpp","tests":[{"id":1738005956194,"input":"4 3 5\n60 45 80 60\n30 60 75","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_searching_and_sorting/apartments.cpp","group":"local","local":true}

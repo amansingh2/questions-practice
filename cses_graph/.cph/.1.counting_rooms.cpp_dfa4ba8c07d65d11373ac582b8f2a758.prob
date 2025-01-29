@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"/Users/amansingh/Desktop/practicw/cses_graph/1.counting_rooms.cpp","tests":[{"id":1738071299580,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/amansingh/Desktop/practicw/cses_graph/1.counting_rooms.cpp","group":"local","local":true}
